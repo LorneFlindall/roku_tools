@@ -18,4 +18,11 @@ Usage of ./roku:
       (-query=true to query channels on device)  
       
   -send string    
-      (-send=text string to enter  (default "none"))    
+      (-send=text string to enter  (default "none"))  
+      
+  -home string    
+      (-home=true string to enter  (default "false"))    
+
+  -key string    
+      (-key=command, comma separated i.e. -key=KeyName i.e.Rev,Fwd,Play,Select,Left,Right,Down,Up,Back,InstantReplay,Info,Backspace,Search,Enter)  
+
